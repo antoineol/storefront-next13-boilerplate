@@ -8,8 +8,7 @@ const config = {
     /* VSF integration config */
     boilerplate: {
       // location: './packages/prestashop-api/server',
-      // location: '../../integrations/prestashop/packages/api-client/server',
-      location: '@vue-storefront/integration-boilerplate-api',
+      location: '../../integrations/prestashop/packages/api-client/server',
       configuration: {},
     },
   },
